@@ -167,7 +167,7 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
 
 .navbar {
   height: 0px;
-  background-color: #DAF7A6; }
+  background-color: #daf7a6; }
 
 #nav .primary-nav {
   z-index: 2;
@@ -237,7 +237,7 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
   top: 0px;
   left: -9999px;
   opacity: 0;
-  background: #DAF7A6;
+  background: #daf7a6;
   cursor: pointer;
   border-bottom-left-radius: 3px;
   border-bottom-right-radius: 3px;
@@ -277,7 +277,7 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
   color: #fefefe;
   font-weight: 400;
   /* Background & effects */
-  background: #8a8eb9;
+  background: #daf7a6;
   -webkit-transition: color .2s ease-in, border-left-color .2s ease-in;
   -ms-transition: color .2s ease-in, border-left-color .2s ease-in;
   -moz-transition: color .2s ease-in, border-left-color .2s ease-in;
@@ -336,7 +336,7 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
   margin-left: 100%;
   margin-top: -20%;
   opacity: 0;
-  background: ##DAF7A6;
+  background: #daf7a6;
   cursor: pointer;
   border-bottom-left-radius: 3px;
   border-bottom-right-radius: 3px;
@@ -386,7 +386,7 @@ a.lightbox-prev:visited, a.lightbox-next:visited, a.lightbox-popup-close:visited
   color: #fefefe;
   font-weight: 400;
   /* Background & effects */
-  background: #8a8eb9;
+  background: #daf7a6;
   -webkit-transition: color .2s ease-in, border-left-color .2s ease-in;
   -ms-transition: color .2s ease-in, border-left-color .2s ease-in;
   -moz-transition: color .2s ease-in, border-left-color .2s ease-in;
