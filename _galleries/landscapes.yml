@@ -57,13 +57,13 @@ arts:
 
 
 # Column 3
-  - image: "images/galleries/landscapes/ladiesblank.png"
+  - image: "images/galleries/landscapes/ladies.jpg"
     order: "9"
     title: "Ladies" 
     artist: "Charlie Bunt"
     description: "Ladies toilet block disused 2023" 
 
-  - image: "images/galleries/landscapes/refill.png"
+  - image: "images/galleries/landscapes/refill.jpg"
     order: "10"
     title: "REFILL"
     artist: "Charlie Bunt"
@@ -75,7 +75,7 @@ arts:
     artist: "Charlie Bunt"
     description: "Cooma Hill Top View 2024"
 
-  - image: "images/galleries/landscapes/pool.png"
+  - image: "images/galleries/landscapes/pool.jpg"
     order: "12"
     title: "POOL"
     artist: "Charlie Bunt"
