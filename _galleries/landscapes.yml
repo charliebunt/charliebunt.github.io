@@ -25,6 +25,12 @@ arts:
     title: "YARDS"
     artist: "Charlie Bunt"
     description: "COOMA SALEYARDS MAY 2024"
+
+  - image: "images/galleries/landscapes/MONTCURRENT.png"
+    order: "13"
+    title: "Parc De Montsouris"
+    artist: "Charlie Bunt"
+    description: "Parc De Montsouris, Paris July 2024"
     
     
 
