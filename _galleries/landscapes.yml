@@ -14,11 +14,11 @@ arts:
     artist: "Charlie Bunt"
     description: "River Walk Main 2023"
 
-  - image: "images/galleries/landscapes/riverwalk3V.png"
+  - image: "images/galleries/landscapes/parkbench.jpg"
     order: "3"
-    title: "River Walk Bridge"
+    title: "Creek Walk Bridge"
     artist: "Charlie Bunt"
-    description: "River Walk Bridge 2023"
+    description: "Creek Walk Bridge 2023"
 
   - image: "images/galleries/landscapes/YARDS.png"
     order: "4"
