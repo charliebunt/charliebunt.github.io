@@ -14,4 +14,45 @@ arts:
     artist: Charlie Bunt
     description: Man on pc
 
+  - image: images/galleries/gifs-et-al/ikigai.gif
+    order: "3"
+    title: ikigai
+    artist: Charlie Bunt
+    description: girl character iki
+
+  - image: images/galleries/gifs-et-al/symphony2.gif
+    order: "4"
+    title: Symphony
+    artist: Charlie Bunt
+    description: animated debauchery
+
+    # Column 2
+  - image: images/galleries/gifs-et-al/paulineH.gif
+    order: "1"
+    title: Pauline
+    artist: Charlie Bunt
+    description: portrait animated
+
+  - image: images/galleries/gifs-et-al/red.gif
+    order: "2"
+    title: Red
+    artist: Charlie Bunt
+    description: lil red riding hood running
+
+  - image: images/galleries/gifs-et-al/physioH.gif
+    order: "3"
+    title: Physio
+    artist: Charlie Bunt
+    description: My physio graphic 
+
+  - image: images/galleries/gifs-et-al/betrayal.gif
+    order: "4"
+    title: Betrayal
+    artist: Charlie Bunt
+    description: child abuse 
+
+
+
+
+
 ---
