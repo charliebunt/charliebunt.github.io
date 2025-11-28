@@ -9,19 +9,19 @@ Here’s a collection of all my links and resources. Click any link to go direct
 
 ---
 
-## Joan Aileen Holt (DOB: [insert DOB])
+## Joan Aileen Holt (DOB: [1926-2005])
 - **Redbubble Shop** – unique merch to fund her collection of art
 `https://www.redbubble.com/people/JoanAileenHolt/shop`
 - **Facebook** – updates and content
 `https://www.facebook.com/JoanAileenHolt`
 - **TikTok** – short videos and clips
 `https://www.tiktok.com/@joanaholt`
-- **YouTube** – playlists of her art and general postcards
+- **YouTube** – playlists of her art and general postcards search for her name listed.
 `https://www.youtube.com/@BuntCharlie/playlists`
 
 ---
 
-## Charlotte Bun (you)
+## Charlotte Esther Ann Bunt (aka Charlie Bunt & Lotty Roo)
 - **Redbubble Shop** – print-on-demand designs
 `https://www.redbubble.com/people/charliebunt/shop`
 - **SquareUp Shop** – handmade items sold directly from home
@@ -39,7 +39,10 @@ Here’s a collection of all my links and resources. Click any link to go direct
 
 ---
 
-## Lottie Rue
+## Lotty Roo
+- **SquareUp / Printful Shop** – browse the shop to find Lotty Roo items under CATEGORIES
+`https://www.charliebunt.com.au/shop`
+
 - **Google Site** – general landing page / links
 `https://sites.google.com/view/lottyroo`
 - **YouTube** – channel content
@@ -48,9 +51,7 @@ Here’s a collection of all my links and resources. Click any link to go direct
 `https://www.tiktok.com/@LottieRoo`
 - **Instagram** – photos and updates
 `https://www.instagram.com/Lotty_Roo`
-- **SquareUp / Printful Shop** – browse the shop to find LottieRoo items
-`https://www.charliebunt.com.au/shop`
-
+  
 ---
 
 *End of Links Page*
