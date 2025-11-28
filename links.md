@@ -36,16 +36,16 @@ YouTube – playlists of her art and general postcards
 <a href="https://www.charliebunt.com.au" target="_blank">SquareUp Shop</a>
 
 Facebook – personal updates / page
-<a href="https://www.facebook.com/@BuntCharlieCharlie" target="_blank">Facebook</a>
+<a href="https://www.facebook.com/@buntcharlie" target="_blank">Facebook</a>
 
 TikTok – videos and updates
 <a href="https://www.tiktok.com/@charliebunt" target="_blank">TikTok</a>
 
 Instagram – photos and updates
-<a href="*(insert Instagram URL here)*" target="_blank">Instagram</a>
+<a href="https://www.instagram.com/buntcharlie" target="_blank">Instagram</a>
 
 YouTube – video content
-<a href="https://www.youtube.com/@BuntCharlie" target="_blank">YouTube</a>
+<a href="https://www.youtube.com/@buntcharlie" target="_blank">YouTube</a>
 
 GitHub Portfolio – general projects and code
 <a href="https://charliebunt.github.io" target="_blank">GitHub Portfolio</a>
