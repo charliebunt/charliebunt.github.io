@@ -9,9 +9,9 @@ Here’s a collection of all my links and resources. Click any link to go direct
 
 ---
 
-## Joan Aileen Holt (DOB: [1926-2005])
+### Joan Aileen Holt (DOB: [1926-2005])
 - **Redbubble Shop** – unique merch to fund her collection of art
-`https://www.redbubble.com/people/JoanAileenHolt/shop`
+(https://www.redbubble.com/people/JoanAileenHolt/shop)
 - **Facebook** – updates and content
 `https://www.facebook.com/JoanAileenHolt`
 - **TikTok** – short videos and clips
@@ -21,7 +21,7 @@ Here’s a collection of all my links and resources. Click any link to go direct
 
 ---
 
-## Charlotte Esther Ann Bunt (aka Charlie Bunt & Lotty Roo)
+### Charlotte Esther Ann Bunt (aka Charlie Bunt & Lotty Roo)
 - **Redbubble Shop** – print-on-demand designs
 `https://www.redbubble.com/people/charliebunt/shop`
 - **SquareUp Shop** – handmade items sold directly from home
@@ -39,7 +39,7 @@ Here’s a collection of all my links and resources. Click any link to go direct
 
 ---
 
-## Lotty Roo
+### Lotty Roo
 - **SquareUp / Printful Shop** – browse the shop to find Lotty Roo items under CATEGORIES
 `https://www.charliebunt.com.au/shop`
 
