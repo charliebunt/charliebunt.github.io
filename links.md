@@ -61,7 +61,7 @@ Google Site – landing page
 <a href="https://sites.google.com/view/lottyroo" target="_blank">Google Site</a>
 
 YouTube – channel content
-<a href="https://youtube.com/@lottyroo7243)" target="_blank">YouTube</a>
+<a href="https://youtube.com/@lottyroo7243" target="_blank">YouTube</a>
 
 TikTok – videos and updates
 <a href="https://www.tiktok.com/@lottyroo" target="_blank">TikTok</a>
@@ -73,4 +73,4 @@ Instagram – photos and updates
 
 End of Links Page
 
-End of Links Page
+
