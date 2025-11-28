@@ -10,7 +10,7 @@ Here’s a collection of all my links and resources. Click any link to go direct
 ---
 
 ### Joan Aileen Holt (DOB: [1926-2005])
-- ** (money bag) Redbubble Shop** – unique merch to fund her collection of art
+- **Redbubble Shop** – unique merch to fund her collection of art
 (https://www.redbubble.com/people/JoanAileenHolt/shop)
 - **Facebook** – updates and content
 `https://www.facebook.com/JoanAileenHolt`
