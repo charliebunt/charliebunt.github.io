@@ -55,16 +55,16 @@ GitHub Portfolio – general projects and code
 ## 🌈 Lotty Roo
 
 💰 SquareUp / Printful Shop – browse categories to find Lotty Roo items
-<a href="https://www.charliebunt.com.au/shop" target="_blank">SquareUp / Printful Shop</a>
+<a href="https://www.charliebunt.com.au/s/shop" target="_blank">SquareUp / Printful Shop</a>
 
 Google Site – landing page
 <a href="https://sites.google.com/view/lottyroo" target="_blank">Google Site</a>
 
 YouTube – channel content
-<a href="https://www.youtube.com/@LottieRoo7243" target="_blank">YouTube</a>
+<a href="https://youtube.com/@lottyroo7243)" target="_blank">YouTube</a>
 
 TikTok – videos and updates
-<a href="https://www.tiktok.com/@LottieRoo" target="_blank">TikTok</a>
+<a href="https://www.tiktok.com/@lottyroo" target="_blank">TikTok</a>
 
 Instagram – photos and updates
 <a href="https://www.instagram.com/Lotty_Roo" target="_blank">Instagram</a>
