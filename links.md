@@ -13,11 +13,11 @@ Here’s a collection of all my links and resources. Click any link to go direct
 - **Redbubble Shop** – unique merch to fund her collection of art
 <https://www.redbubble.com/people/JoanAileenHolt/shop>
 - **Facebook** – updates and content
-`https://www.facebook.com/JoanAileenHolt`
+<https://www.facebook.com/JoanAileenHolt>
 - **TikTok** – short videos and clips
-`https://www.tiktok.com/@joanaholt`
+<https://www.tiktok.com/@joanaholt>
 - **YouTube** – playlists of her art and general postcards search for her name listed.
-`https://www.youtube.com/@BuntCharlie/playlists`
+<https://www.youtube.com/@BuntCharlie/playlists>
 
 ---
 
