@@ -5,7 +5,7 @@ permalink: /links/
 
 # 🌐 My Links Page
 
-A clean, simple collection of all my shops, socials, and portfolios.
+A collection of all my shops, socials, and portfolios.
 Click any link to go directly to the page.
 
 ---
@@ -13,16 +13,16 @@ Click any link to go directly to the page.
 ## 🎨 Joan Aileen Holt (1926–2005)
 
 💰 Redbubble Shop – unique merch to fund her collection of art
-https://www.redbubble.com/people/JoanAileenHolt/shop
+<a href="https://www.redbubble.com/people/JoanAileenHolt/shop" target="_blank">Redbubble Shop</a>
 
 Facebook – updates and content
-https://www.facebook.com/JoanAileenHolt
+<a href="https://www.facebook.com/JoanAileenHolt" target="_blank">Facebook</a>
 
 TikTok – short videos and clips
-https://www.tiktok.com/@joanaholt
+<a href="https://www.tiktok.com/@joanaholt" target="_blank">TikTok</a>
 
 YouTube – playlists of her art and general postcards
-https://www.youtube.com/@BuntCharlie/playlists
+<a href="https://www.youtube.com/@BuntCharlie/playlists" target="_blank">YouTube</a>
 
 ---
 
@@ -30,45 +30,47 @@ https://www.youtube.com/@BuntCharlie/playlists
 (aka Charlie Bunt & Lotty Roo)
 
 💰 Redbubble Shop – print-on-demand designs
-https://www.redbubble.com/people/charliebunt/shop
+<a href="https://www.redbubble.com/people/charliebunt/shop" target="_blank">Redbubble Shop</a>
 
 💰 SquareUp Shop – handmade items sold directly from home
-https://www.charliebunt.com.au
+<a href="https://www.charliebunt.com.au" target="_blank">SquareUp Shop</a>
 
 Facebook – personal updates / page
-https://www.facebook.com/@BuntCharlieCharlie
+<a href="https://www.facebook.com/@BuntCharlieCharlie" target="_blank">Facebook</a>
 
 TikTok – videos and updates
-https://www.tiktok.com/@charliebunt
+<a href="https://www.tiktok.com/@charliebunt" target="_blank">TikTok</a>
 
 Instagram – photos and updates
-(add Instagram URL when ready)
+<a href="*(insert Instagram URL here)*" target="_blank">Instagram</a>
 
 YouTube – video content
-https://www.youtube.com/@BuntCharlie
+<a href="https://www.youtube.com/@BuntCharlie" target="_blank">YouTube</a>
 
 GitHub Portfolio – general projects and code
-https://charliebunt.github.io
+<a href="https://charliebunt.github.io" target="_blank">GitHub Portfolio</a>
 
 ---
 
 ## 🌈 Lotty Roo
 
 💰 SquareUp / Printful Shop – browse categories to find Lotty Roo items
-https://www.charliebunt.com.au/shop
+<a href="https://www.charliebunt.com.au/shop" target="_blank">SquareUp / Printful Shop</a>
 
 Google Site – landing page
-https://sites.google.com/view/lottyroo
+<a href="https://sites.google.com/view/lottyroo" target="_blank">Google Site</a>
 
 YouTube – channel content
-https://www.youtube.com/@LottieRoo7243
+<a href="https://www.youtube.com/@LottieRoo7243" target="_blank">YouTube</a>
 
 TikTok – videos and updates
-https://www.tiktok.com/@LottieRoo
+<a href="https://www.tiktok.com/@LottieRoo" target="_blank">TikTok</a>
 
 Instagram – photos and updates
-https://www.instagram.com/Lotty_Roo
+<a href="https://www.instagram.com/Lotty_Roo" target="_blank">Instagram</a>
 
 ---
+
+End of Links Page
 
 End of Links Page
