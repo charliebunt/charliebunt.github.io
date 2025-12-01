@@ -38,7 +38,8 @@ GitHub Portfolio – general projects and code
 ---
 
 ## 🌈 Lotty Roo 
-(aka Charlotte's kids fun)
+(for kids by Charlotte Bunt)
+
 💰 Googlesite / Printful & Etsy Shop - Printed plus Handmade 
 <a href="https://sites.google.com/view/lottyroo" target="_blank">Google Site</a>
 
@@ -50,6 +51,9 @@ TikTok – videos and updates
 
 Instagram – photos and updates
 <a href="https://www.instagram.com/Lotty_Roo" target="_blank">Instagram</a>
+
+SPOTIFY - Music 
+<a href="https://open.spotify.com/artist/4R0pgyrJNfmBsRQEslkg3o" target="_blank">Spotify</a>
 
 ---
 
