@@ -12,7 +12,7 @@ Click any link to go directly to the page.
 
 
 ## 🌸 Charlotte Esther Ann Bunt
-(aka Charlie Bunt & Lotty Roo)
+(aka Charlie Bunt)
 
 💰 Redbubble Shop – print-on-demand designs
 <a href="https://www.redbubble.com/people/CharlieBuntOZ/shop" target="_blank">Redbubble Shop</a>
@@ -37,8 +37,8 @@ GitHub Portfolio – general projects and code
 
 ---
 
-## 🌈 Lotty Roo
-
+## 🌈 Lotty Roo 
+(aka Charlotte's kids fun)
 💰 Googlesite / Printful & Etsy Shop - Printed plus Handmade 
 <a href="https://sites.google.com/view/lottyroo" target="_blank">Google Site</a>
 
