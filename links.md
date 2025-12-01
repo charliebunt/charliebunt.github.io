@@ -10,29 +10,14 @@ Click any link to go directly to the page.
 
 ---
 
-## 🎨 Joan Aileen Holt (1926–2005)
-
-💰 Redbubble Shop – unique merch to fund her collection of art
-<a href="https://www.redbubble.com/people/JoanAileenHolt/shop" target="_blank">Redbubble Shop</a>
-
-Facebook – updates and content
-<a href="https://www.facebook.com/JoanAileenHolt" target="_blank">Facebook</a>
-
-TikTok – short videos and clips
-<a href="https://www.tiktok.com/@joanaholt" target="_blank">TikTok</a>
-
-YouTube – playlists of her art and general postcards
-<a href="https://www.youtube.com/@BuntCharlie/playlists" target="_blank">YouTube</a>
-
----
 
 ## 🌸 Charlotte Esther Ann Bunt
 (aka Charlie Bunt & Lotty Roo)
 
 💰 Redbubble Shop – print-on-demand designs
-<a href="https://www.redbubble.com/people/charliebunt/shop" target="_blank">Redbubble Shop</a>
+<a href="https://www.redbubble.com/people/CharlieBuntOZ/shop" target="_blank">Redbubble Shop</a>
 
-💰 SquareUp Shop – handmade items sold directly from home
+💰 SquareUp Shop – FINE ART PRINTS
 <a href="https://www.charliebunt.com.au" target="_blank">SquareUp Shop</a>
 
 Facebook – personal updates / page
@@ -54,10 +39,7 @@ GitHub Portfolio – general projects and code
 
 ## 🌈 Lotty Roo
 
-💰 SquareUp / Printful Shop – browse categories to find Lotty Roo items
-<a href="https://www.charliebunt.com.au/s/shop" target="_blank">SquareUp / Printful Shop</a>
-
-Google Site – landing page
+💰 Googlesite / Printful & Etsy Shop - Printed plus Handmade 
 <a href="https://sites.google.com/view/lottyroo" target="_blank">Google Site</a>
 
 YouTube – channel content
