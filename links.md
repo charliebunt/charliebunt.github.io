@@ -38,7 +38,7 @@ GitHub Portfolio – general projects and code
 ---
 
 ## 🌈 Lotty Roo 
-(for kids by Charlotte Bunt)
+(for kids by <a href="https://charliebunt.github.io/links" target="_blank">Charlotte Esther Ann Bunt</a>)
 
 💰 Googlesite / Printful & Etsy Shop - Printed plus Handmade 
 <a href="https://www.etsy.com/shop/LOTTYROOxOZ" target="_blank">Etsy Store</a>
