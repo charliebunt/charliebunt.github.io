@@ -41,7 +41,7 @@ GitHub Portfolio – general projects and code
 (for kids by Charlotte Bunt)
 
 💰 Googlesite / Printful & Etsy Shop - Printed plus Handmade 
-<a href="https://sites.google.com/view/lottyroo" target="_blank">Google Site</a>
+<a href="https://www.etsy.com/shop/LOTTYROOxOZ" target="_blank">Etsy Store</a>
 
 YouTube – channel content
 <a href="https://youtube.com/@lottyroo7243" target="_blank">YouTube</a>
