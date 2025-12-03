@@ -15,7 +15,7 @@ Click any link to go directly to the page.
 (aka Charlie Bunt)
 
 💰 Redbubble Shop – print-on-demand designs
-<a href="https://www.redbubble.com/people/CharlieBuntOZ/shop" target="_blank">Redbubble Shop</a>
+<a href="CharlieBuntOZ.redbubble.com" target="_blank">Redbubble Shop</a>
 
 💰 SquareUp Shop – FINE ART PRINTS
 <a href="https://www.charliebunt.com.au" target="_blank">SquareUp Shop</a>
