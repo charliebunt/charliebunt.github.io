@@ -2,7 +2,7 @@
 (for kids by <a href="https://charliebunt.github.io/links" target="_blank">Charlotte Esther Ann Bunt</a>)
 
 💰 Googlesite / Printful & Etsy Shop - Printed plus Handmade 
-<a href="https://www.etsy.com/shop/LOTTYROOxOZ" target="_blank">Etsy Store</a>
+<a href="https://www.etsy.com/au/shop/LOTTYROO" target="_blank">Etsy Store</a>
 
 YouTube – channel content
 <a href="https://youtube.com/@lottyroo7243" target="_blank">YouTube</a>
