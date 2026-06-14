@@ -14,20 +14,16 @@ Click any link to go directly to the page.
 ## 🌸 Charlotte Esther Ann Bunt
 (aka Charlie Bunt)
 
-💰 Redbubble Shop – print-on-demand designs
-<a href="https://CharlieBuntOZ.redbubble.com" target="_blank">Redbubble Shop</a>
 
-💰 SquareUp Shop – FINE ART PRINTS
-<a href="https://www.charliebunt.com.au" target="_blank">SquareUp Shop</a>
+
+💰 Google Shop – FINE ART PRINTS
+<a href="https://www.charliebunt.com.au" target="_blank">Google Shop</a>
 
 Facebook – personal updates / page
 <a href="https://www.facebook.com/@buntcharlie" target="_blank">Facebook</a>
 
 TikTok – videos and updates
 <a href="https://www.tiktok.com/@charliebunt" target="_blank">TikTok</a>
-
-Instagram – photos and updates
-<a href="https://www.instagram.com/buntcharlie" target="_blank">Instagram</a>
 
 YouTube – video content
 <a href="https://www.youtube.com/@buntcharlie" target="_blank">YouTube</a>
@@ -48,9 +44,6 @@ YouTube – channel content
 
 TikTok – videos and updates
 <a href="https://www.tiktok.com/@lottyroo" target="_blank">TikTok</a>
-
-Instagram – photos and updates
-<a href="https://www.instagram.com/Lotty_Roo" target="_blank">Instagram</a>
 
 SPOTIFY - Music 
 <a href="https://open.spotify.com/artist/4R0pgyrJNfmBsRQEslkg3o" target="_blank">Spotify</a>
