@@ -16,7 +16,7 @@ permalink: /links/
 <a href="https://www.charliebunt.com.au" target="_blank">Google Shop</a>
 
 Instagram – 
-<a href="https://www.instagram.com/buntcharliestkn=MWpnMG9xcmptcHZyNg%3D%3D&utm_source=qr“
+<a href="https://www.instagram.com/buntcharlie”
 target="_blank">Instagram</a>
 
 TikTok – videos and updates
