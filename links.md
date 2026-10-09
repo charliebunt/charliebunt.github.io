@@ -15,9 +15,7 @@ permalink: /links/
 💰 Google Shop – FINE ART PRINTS
 <a href="https://www.charliebunt.com.au" target="_blank">Google Shop</a>
 
-Instagram – 
-<a href="https://www.instagram.com/buntcharlie”
-target="_blank">Instagram</a>
+
 
 TikTok – videos and updates
 <a href="https://www.tiktok.com/@charliebunt" target="_blank">TikTok</a>
